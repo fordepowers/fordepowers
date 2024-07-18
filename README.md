@@ -15,9 +15,9 @@
   
 ### About Me:
 I'm a Cybersecurity Engineer from the PNW 🏔️
-- 🥾 Hobbies include coding, hiking, hacking and creating
+- 🥾 Hobbies include coding, hiking, and hacking 
 - 🌲 Really enjoy the outdoors
-- 🔌 Been researching embedded control boards lately
+- 🔌 Performing lots of security assessments lately
 
 ---
 
